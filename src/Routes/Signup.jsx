@@ -58,7 +58,7 @@ export default function Signup() {
           fontWeight="bold"
           textAlign="start"
         >
-          Enter details to Sign-up
+          Welcome to signup page!
         </Text>
         <br />
         <Button

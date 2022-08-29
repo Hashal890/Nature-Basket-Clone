@@ -51,7 +51,7 @@ export default function Login() {
           fontWeight="bold"
           textAlign="start"
         >
-          Enter valid details to Login
+          Welcome to login page!
         </Text>
         <Button
           onClick={modal1.onOpen}
